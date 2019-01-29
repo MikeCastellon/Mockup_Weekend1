@@ -1,0 +1,133 @@
+* {
+  background-color: white;
+  margin: .4em;
+
+}
+.flighttabs {
+  padding: 3px;
+display: flex;
+flex-direction: row;
+}
+
+#onetab {
+  color: blue;
+  border: .2px solid #A8A8A8;
+  background-color: #F0F0F0;
+
+}
+#twotab {
+  border: .2px solid #A8A8A8;
+  border-bottom: 0;
+}
+
+.topbarmiddle {
+  background-color: #F0F0F0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border: .1px solid  #A8A8A8;
+
+}
+#NYC {
+  border: .2px solid #A8A8A8;
+  padding: 3px;
+  padding-right: 50px;
+
+}
+#REK {
+  border: .2px solid #A8A8A8;
+  margin-left: inherit;
+  padding: 3px;
+  padding-right: 50px;
+}
+
+#calenders {
+
+border: .2px solid #E0E0E0;
+
+}
+.leftbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: .2px solid #A8A8A8;
+  height: 1000px;
+  width: 25%;
+  float: left;
+
+
+
+
+}
+.button3 {
+padding: 3px 40px;
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+}
+.bluetext {
+  color: blue;
+
+}
+.ptrend {
+  font-size: 20px;
+  font-weight: bold;
+}
+.leftbar2 img {
+  width: 80%;
+}
+.bold {
+  font-size: 20px;
+  font-weight: bold;
+}
+.main {
+
+
+margin-left: 30%;
+
+
+
+}
+.mainbuttons {
+  padding: 3px 20px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+
+}
+.hr1 {
+  width: 100%;
+}
+.mainbar1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+justify-content: space-between;
+
+}
+
+.mainbar2 {
+  display: flex;
+  flex-direction: row;
+}
+.logo2{
+height: 80px;
+width: 80px;
+border: .5px solid #000;
+align-content: center;
+}
+.mainbuttons2 {
+  margin-left: 180px;
+
+}
+.orangetext {
+  color: orange;
+}
+.imgI {
+
+  width: 35%;
+
+}
+.bluetextmain {
+  color: blue;
+}
